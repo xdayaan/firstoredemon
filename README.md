@@ -1,5 +1,5 @@
 # firstoredemon
-The node module you can use to connect to firebase cloud database and add data with the hassle of coding.
+The node module you can use to connect to firebase cloud database and add data without the hassle of coding.
 
 first download the module by entering the following command in your command prompt:
 
