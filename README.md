@@ -8,6 +8,6 @@ npm i firestoredemon
 after downloading...
 import the files
 
-const firedemon =  import('firedemon');
+const firestoredemon =  import('firestoredemon');
 
 then you are good to go.
